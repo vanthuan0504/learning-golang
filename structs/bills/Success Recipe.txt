@@ -1,0 +1,11 @@
+Bill breakdown:
+Knowledge:                ...$10
+Hard working:             ...$9
+Work smarter:             ...$10
+Happy:                    ...$10
+Enjoy life:               ...$10
+Family:                   ...$10
+Health:                   ...$10
+Love:                     ...$9
+tip:                      ...$1e+14
+total:                    ...$100000000000078.00
